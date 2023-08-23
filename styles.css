@@ -1,1 +1,17 @@
 /*  your css code here. If applicable */
+.cont{
+	background-color:#f5f5f5;
+	padding:10px;
+}
+ 
+.card{
+    background-color:white;
+	padding:5px;
+	margin-top:10px;
+	box-shadow:0px 0px 5px grey;
+	border:none;
+}
+.p2{
+	text-align:right;
+	font-style:italic;
+}
